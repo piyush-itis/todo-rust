@@ -1,8 +1,3 @@
-Sure! Here's the entire `README.md` content in a **single copy-pasteable block** — just copy and paste this into your `README.md` file:
-
----
-
-````markdown
 # 📝 Native Rust CLI To-Do List Manager
 
 A simple command-line To-Do application built using **pure Rust** — no external crates or frameworks. This project is designed to help you understand Rust's standard library, ownership model, file I/O, enums, and error handling.
@@ -127,11 +122,6 @@ Feel free to fork, modify, and use it for learning or productivity!
 
 ## 👨‍💻 Author
 
-**Your Name**
+
+**piyush-itis**
 [GitHub Profile](https://github.com/piyush-itis)
-
-```
-
----
-
-```
